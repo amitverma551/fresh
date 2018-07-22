@@ -1,22 +1,26 @@
 /*---------------------------
 	Fonts
 ----------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Heebo:400,500,700|Lato:400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,400i,600,700|Roboto:300,400,500,700,900');
 
 // fonts
 $base-font-size: 15;
-$base-font: 'Lato', sans-serif;
-$heading-font: 'Heebo', sans-serif;
+$base-font: 'Josefin Sans', sans-serif;
+$heading-font: 'Roboto', sans-serif;
 
 
 
 // color
 $dark-gray: #2a2a2a;
+$color-third: #30353E; // Third -> paragraph
+$color-four: #677180; // Four -> general
+$color-five: #EAEDF6; // Background -> body
+
 $white: #fff;
 $black: #000;
 
-$theme-primary-color: #ff5e14;
-$theme-secondary-color: #0d1e2d;
+$theme-primary-color: #D4062A;;
+$theme-secondary-color: #1C2025;
 $body-bg-color: $white;
 $section-bg-color: #edecec;
 $text-color: #73787d;
